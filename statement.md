@@ -1,6 +1,6 @@
 # Marbles and Boxes
 
-A and B are playing a game of boxes and marbles. There are $n$ marbles (numbered $1$ to $n$) and $n$ boxes (numbered $1$ to $n$) kept on the ground.
+A and B are playing a game of boxes and marbles. There are $n$ distinct marbles (numbered $1$ to $n$) and $n$ dictinct boxes (numbered $1$ to $n$) kept on the ground.
 A is dropping all the marbles at once and trying to see which marble falls into which box. 
 However, gravity is acting strangely, and it is confirmed that after you drop the marbles in boxes, there will be only one marble in each box.<br>
 
