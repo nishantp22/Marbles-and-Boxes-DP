@@ -5,6 +5,6 @@ The rules of the game are as follows: B will win if there is not even a single b
 Given that A decides the number of marbles and boxes (value of $n$), can you find the number of ways in which B can win?<br>
 Input: the integer $n$.
 Output: The number of ways in which B can win
-Constraints: 1<=$n$<=$\pow{10,8}$
+Constraints: $1$<=$n$<=$10^8$
 
 
