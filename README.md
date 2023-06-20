@@ -14,7 +14,6 @@ Output:<br>
 The number of ways in which B can win.<br>
 
 Constraints:<br>
-Constraints: <br>
 
 $1 \le t \le 10^5$<br>
 
