@@ -10,7 +10,7 @@ If neither of the above happens, A will win.<br>
 Given that A decides the number of marbles and boxes (value of $n$), can you find the number of ways in which B can win?<br>
 
 Input: <br>
-1st line : $t$, the number of testcases.
+1st line : $t$, the number of testcases.<br>
 2nd line : The integer $n$<br>
 
 Output: <br>
