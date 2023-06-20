@@ -15,7 +15,7 @@ This problem can be easily solved with some knowledge of combinatorics and very 
      Now, coming to the actual problem, Clearly, B will win if either no ball falls in the same numbered box, which can happen in $D_n$ ways, or exactly one ball falls into the right box, which can happen in $n \choose 1$ times $D_{n-1}$ ways. Hence, for a given n, if $T_n$ is the number of ways in which B can win, then :
      $$T_n=D_n+nD_{n-1}$$<br><br>
 Approach:
-For a given n, we need $D_n$. Hence we implement dynamic programming to calculate $D_n$ using the recursive relation derived above.(Exact code is given in the solution). Now all we need is $D_n$ and $D_{n-1}$, using which, we output the final answer $T_n$.<br><br>
+For a given $n$, we need $D_n$. Hence we implement dynamic programming to calculate $D_n$ using the recursive relation derived above.(Exact code is given in the solution). Now all we need is $D_n$ and $D_{n-1}$, using which, we output the final answer $T_n$.<br><br>
 
 <b>Time Complexity:</b> $O(n)$ 
 
