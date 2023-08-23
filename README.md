@@ -1,5 +1,5 @@
-# Marbles and Boxes - PClub Secy recruitment task 1
-This is repository which contains the codes for the problem prepared for this tasks.
+# Marbles and Boxes
+This is repository which contains the codes for the problem prepared.
 
 The files are : solution.cpp(the solution to proposed problem), test.cpp(the test generator), corner_case.cpp(a test generator which generates a specific corner case) and testlib.h.<br>
 The problem does not require a custom checker as I have used a suitable checker already available on Polygon.<br>
